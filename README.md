@@ -34,6 +34,13 @@ The objectives of the project are:
 - Follow the instructions in each notebook to execute the crawling, database creation, and search functionalities.
 - Ensure that you have the necessary libraries installed, such as `requests`, `beautifulsoup4`, `langchain`, and `chromadb`.
 
+## Data Files and Vector Databases
+
+The following links provide access to the large data files and vector databases used in this project:
+
+- [Download BoPhapDienDienTu Data] https://drive.google.com/drive/folders/1kGEwy2yhP_doNGvUasd2KbpoM-bqTLDb?usp=drive_link
+- [Download Vector Database] https://drive.google.com/drive/folders/1BXcP5ytmeiHDEC4bKkqtZxqCaRgOwjs1?usp=drive_link
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
